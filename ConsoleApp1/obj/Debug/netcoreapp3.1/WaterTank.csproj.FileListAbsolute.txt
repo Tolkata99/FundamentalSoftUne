@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\bin\Debug\netcoreapp3.1\WaterTank.exe
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\bin\Debug\netcoreapp3.1\WaterTank.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\bin\Debug\netcoreapp3.1\WaterTank.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\bin\Debug\netcoreapp3.1\WaterTank.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\bin\Debug\netcoreapp3.1\WaterTank.dll
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\bin\Debug\netcoreapp3.1\WaterTank.pdb
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\obj\Debug\netcoreapp3.1\WaterTank.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\obj\Debug\netcoreapp3.1\WaterTank.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\obj\Debug\netcoreapp3.1\WaterTank.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\obj\Debug\netcoreapp3.1\WaterTank.dll
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\obj\Debug\netcoreapp3.1\WaterTank.pdb
+C:\Users\Acer Nitro\source\Fundamentals\FundamentalSoftUne\ConsoleApp1\obj\Debug\netcoreapp3.1\WaterTank.genruntimeconfig.cache
